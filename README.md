@@ -40,9 +40,6 @@ You can see the counter in action by opening `index.html` in your browser.
 
 Feel free to edit the styles in `style.css` or enhance the counter’s functionality in `script.js`.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
